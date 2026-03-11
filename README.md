@@ -1,2 +1,2 @@
-# task-4
+# task
 Reusable Loading component built with React.
